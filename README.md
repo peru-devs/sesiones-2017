@@ -14,6 +14,6 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 
 ## Sesiones
 
-- [Sesión 1](./sesiones/01.md) - 25/03/2017
-- [Sesión 2](./sesiones/02.md) - 10/06/2017
-
+- __Sesión 1:__ [Configuración de entorno de desarrollo para proyectos Laravel 5.4](./sesiones/01.md) - 25/03/2017
+- __Sesión 2:__ [Creación de un API RESTful usando PHP Laravel 5.4](./sesiones/02.md) - 10/06/2017
+- __Sesión 3:__ [Introducción a VueJS](./sesiones/03.md) - 19/08/2017
