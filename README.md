@@ -16,4 +16,4 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 
 - [Sesión 1](./sesiones/01.md) - 25/03/2017
 - [Sesión 2](./sesiones/02.md) - 10/06/2017
-
+- [Sesión 3](./sesiones/03.md) - 19/08/2017
